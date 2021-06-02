@@ -45,5 +45,5 @@ apt-get install wget
 apt-get install tesseract
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
-npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index.js
+npm i -g cwebp && npm i -g ytdl && npm i  && npm i got 
 echo "[*] obrigado por utilizar o bot \"TH BOT\" TH agradece"

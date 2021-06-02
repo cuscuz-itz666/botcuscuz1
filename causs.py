@@ -85,7 +85,7 @@ elif menu == '1':
     spam()
 if menu == '67':
         if platform not in ('win32', 'cygwin'):
-            command = 'bash causs.sh'
+            command = 'bash install.sh'
             call(command, shell=True)
 if menu == '2':
     if platform not in ('win32', 'cygwin'): 

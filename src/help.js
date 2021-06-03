@@ -118,7 +118,6 @@ ____██_____██
 ║🐊 *${prefix}delete*
 ║🐊 *${prefix}modapk*
 ║🐊 *${prefix}indo10*
-║🐊 *${prefix}daftarvip [para virar Premium]*
 ║🐊 *${prefix}qrcode*
 ║🐊 *${prefix}chentai*
 ║🐊 *${prefix}gcpf*
@@ -153,7 +152,6 @@ ____██_____██
 ║
 ║🐊 *${prefix}bug [sua mensagem]*
 ║🐊 *${prefix}clonar [@]*
-║🐊 *${prefix}dono*
 ║🐊 *${prefix}ping [ver velocidade do bot]*
 ║🐊 *${prefix}termux*
 ║🐊 *${prefix}gay [@]*

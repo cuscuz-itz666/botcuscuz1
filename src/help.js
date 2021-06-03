@@ -56,7 +56,6 @@ ____██_____██
 ║🐊 *${prefix}bemvindo [1/0]*
 ║🐊 *${prefix}clonar [@]*
 ║🐊 *${prefix}help1*
-║🐊 *${prefix}dono*
 ║🐊 *${prefix}owner*
 ║🐊 *${prefix}tts [texto]*
 ║🐊 *${prefix}setnome*
